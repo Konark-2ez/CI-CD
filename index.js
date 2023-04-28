@@ -1,4 +1,4 @@
-const str = 'quote'
+const str = "quote"
 
 console.log(str)
 const str1 = 'for you'
